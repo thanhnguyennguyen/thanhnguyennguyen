@@ -19,6 +19,19 @@ You have finally discovered my Github profile. <br>
 
 Passionate,responsible and committed software engineer. A big fan of blockchain and decentralized world
 <br/><br/>
+Feel free to connect me
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyennguyen-vn/)](https://www.linkedin.com/in/nguyennguyen-vn/)
+[![Gmail Badge](https://img.shields.io/badge/-nguyenbk92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyenbk92@gmail.com)](mailto:nguyenbk92@gmail.com)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnguyennguyen&show_icons=true&theme=radical&count_private=true)](https://www.linkedin.com/in/nguyennguyen-vn/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnguyennguyen&layout=compact&count_private=true)](https://www.linkedin.com/in/nguyennguyen-vn/)
+
+![Stats](https://github-readme-streak-stats.herokuapp.com/?user=thanhnguyennguyen)
+
+
 
 ### ⚡ Technologies
 
@@ -59,18 +72,7 @@ Passionate,responsible and committed software engineer. A big fan of blockchain 
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://udemy-certificate.s3.amazonaws.com/image/UC-9GT9JDKV.jpg)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nguyenbk92)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnguyennguyen&show_icons=true&theme=radical&count_private=true)](https://www.linkedin.com/in/nguyennguyen-vn/)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhnguyennguyen&layout=compact&count_private=true)](https://www.linkedin.com/in/nguyennguyen-vn/)
-
-![Stats](https://github-readme-streak-stats.herokuapp.com/?user=thanhnguyennguyen)
-
-<br/>
-Feel free to connect me
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyennguyen-vn/)](https://www.linkedin.com/in/nguyennguyen-vn/)
-[![Gmail Badge](https://img.shields.io/badge/-nguyenbk92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyenbk92@gmail.com)](mailto:nguyenbk92@gmail.com)
 
 
 
