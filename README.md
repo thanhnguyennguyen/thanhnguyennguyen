@@ -76,6 +76,9 @@ Feel free to connect me
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nguyenbk92)
 
 
-
-
-
+### Licenses & certifications
+- [Ethereum : Decentralized Application Design & Development](https://udemy-certificate.s3.amazonaws.com/image/UC-9GT9JDKV.jpg)
+- [Ethereum and Solidity: The Complete Developer's Guide](https://udemy-certificate.s3.amazonaws.com/image/UC-7HA7HGGN.jpg)
+- [Blockchain Advanced Level: Uses Beyond Bitcoin 2018](https://udemy-certificate.s3.amazonaws.com/image/UC-117WRSAG.jpg)
+- [Compile Your First Ethereum Smart Contract With Solidity](https://udemy-certificate.s3.amazonaws.com/image/UC-DW331BM3.jpg)
+- [The Coding Interview Bootcamp : Algorithms + Datatructures ](https://udemy-certificate.s3.amazonaws.com/image/UC-DNDY6I5W.jpg)
