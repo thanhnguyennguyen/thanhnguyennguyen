@@ -21,7 +21,7 @@ Passionate,responsible and committed software engineer. A big fan of blockchain 
 <br/><br/>
 Feel free to connect me
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyennguyen-vn/)](https://www.linkedin.com/in/nguyennguyen-vn/)
+[![Linkedin Badge](https://img.shields.io/badge/nguyennguyen-vn?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyennguyen-vn/)](https://www.linkedin.com/in/nguyennguyen-vn/)
 [![Gmail Badge](https://img.shields.io/badge/-nguyenbk92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nguyenbk92@gmail.com)](mailto:nguyenbk92@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thanhnguyennguyen&show_icons=true&theme=radical&count_private=true)](https://www.linkedin.com/in/nguyennguyen-vn/)
