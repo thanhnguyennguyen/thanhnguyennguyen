@@ -84,3 +84,4 @@ Feel free to connect me
 - [Blockchain Advanced Level: Uses Beyond Bitcoin 2018](https://udemy-certificate.s3.amazonaws.com/image/UC-117WRSAG.jpg)
 - [Compile Your First Ethereum Smart Contract With Solidity](https://udemy-certificate.s3.amazonaws.com/image/UC-DW331BM3.jpg)
 - [The Coding Interview Bootcamp : Algorithms + Datatructures ](https://udemy-certificate.s3.amazonaws.com/image/UC-DNDY6I5W.jpg)
+- [Problem Solving](https://www.hackerrank.com/certificates/dd58c341f5dd)
