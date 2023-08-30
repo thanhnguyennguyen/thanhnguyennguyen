@@ -33,6 +33,7 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+          MAX_REPOS: 1000
           
           
       # push the content of <build_dir> to a branch
