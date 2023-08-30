@@ -14,8 +14,10 @@
 You have finally discovered my Github profile. <br>
  </div> 
  
-![Snake animation](https://github.com/thanhnguyennguyen/thanhnguyennguyen/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thanhnguyennguyen/thanhnguyennguyen/blob/output-snake/github-contribution-grid-snake.svg)
 
+
+![profile-3d-animation](https://github.com/thanhnguyennguyen/thanhnguyennguyen/blob/output-profile-3d/profile-season-animate.svg)
 
  ### About NguyenNguyen
 
