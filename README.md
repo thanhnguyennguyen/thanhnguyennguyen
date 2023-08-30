@@ -14,7 +14,9 @@
 You have finally discovered my Github profile. <br>
  </div> 
  
- 
+![Snake animation](https://github.com/thanhnguyennguyen/thanhnguyennguyen/blob/output/github-contribution-grid-snake.svg)
+
+
  ### About NguyenNguyen
 
 Passionate,responsible and committed software engineer. A big fan of blockchain and decentralized world
