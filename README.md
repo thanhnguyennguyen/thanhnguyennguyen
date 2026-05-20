@@ -44,5 +44,5 @@ Feel free to connect me
 
 [![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=thanhnguyennguyen&layout=compact&count_private=true)](https://www.linkedin.com/in/nguyennguyen-vn/)
 
-![Stats](https://github-readme-stats.shion.dev/api/?user=thanhnguyennguyen)
+![Stats](https://github-readme-stats.shion.dev/api/?username=thanhnguyennguyen)
 
