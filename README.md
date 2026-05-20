@@ -10,6 +10,7 @@
 - Strong computer science fundamentals, problem-solving skills.
 - Strategic thinking and the ability to transform business requirements to technical solutions.
 - Hands-on experience with modern backend languages and engineering techniques.
+- Hands-on experience with smart contract development.
 - Experience working with global cross-functional collaboration, product development and mentoring engineers.
 
 
@@ -25,6 +26,7 @@
 - Cloud & Infrastructure: AWS (or similar), Docker, Linux
 - Messaging & Streaming: Kafka, RabbitMQ, Redis Pub/Sub
 - Blockchain: EVM, Solana, Aptos, Sui
+- Libraries & Frameworks: Web3.js, Ether.js, @solana/web3.js, Hardhat, Foundry
 
 
 ### Licenses & certifications
