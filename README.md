@@ -1,6 +1,6 @@
 
 # NGUYEN THANH NGUYEN
-URL: https://portfolio-jade-two-y84rc1gaqi.vercel.app/
+Portfolio: https://portfolio-nguyen-nguyen-vn.vercel.app/
 ### Senior Blockchain /Backend Engineer
  ### About NguyenNguyen
 
