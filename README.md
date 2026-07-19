@@ -1,6 +1,6 @@
 
 # NGUYEN THANH NGUYEN
-Portfolio: https://portfolio-nguyen-nguyen-vn.vercel.app/
+Portfolio: https://nguyen.is-a.dev
 ### Senior Blockchain /Backend Engineer
  ### About NguyenNguyen
 
