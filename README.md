@@ -1,7 +1,7 @@
 
 # NGUYEN THANH NGUYEN
 Portfolio: https://nguyen.is-a.dev
-### Senior Blockchain /Backend Engineer
+### Senior Blockchain / Backend Engineer
  ### About NguyenNguyen
 
 - Senior Backend Engineer with 11+ years of experience building scalable, high-availability, high-performance systems for high-concurrency and real-time workloads.
