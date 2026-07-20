@@ -1,6 +1,6 @@
 
 # NGUYEN THANH NGUYEN
-Portfolio: https://nguyen.is-a.dev
+Portfolio: [nguyen.is-a.dev](https://nguyen.is-a.dev/)
 ### Senior Blockchain / Backend Engineer
  ### About NguyenNguyen
 
