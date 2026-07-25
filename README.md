@@ -43,7 +43,7 @@ Feel free to connect me
 
 [![Linkedin Badge](https://img.shields.io/badge/nguyennguyen-vn?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nguyennguyen-vn/)](https://www.linkedin.com/in/nguyennguyen-vn/)
 
-[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=thanhnguyennguyen&layout=compact&count_private=true)](https://www.linkedin.com/in/nguyennguyen-vn/)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=thanhnguyennguyen&layout=compact&langs_count=10&count_private=false)](https://www.linkedin.com/in/nguyennguyen-vn/)
 
 ![Stats](https://github-readme-stats.shion.dev/api/?username=thanhnguyennguyen)
 
