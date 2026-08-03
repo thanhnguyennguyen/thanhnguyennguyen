@@ -1,33 +1,31 @@
 
 # NGUYEN THANH NGUYEN
 Portfolio: [nguyen.is-a.dev](https://nguyen.is-a.dev/)
-### Senior Blockchain / Backend Engineer
- ### About NguyenNguyen
+### Senior Software Engineer
+Backend | Blockchain | AI
+ 
 
-- Senior Backend Engineer with 11+ years of experience building scalable, high-availability, high-performance systems for high-concurrency and real-time workloads.
-- Efficient at system architecture design, API design, troubleshooting issues.
-- Understanding fundamental design principles behind a scalable application, common design patterns, web technologies
-- Strong background in distributed systems and performance optimization, with a track record of delivering reliable production systems.
-- Strong computer science fundamentals, problem-solving skills.
-- Strategic thinking and the ability to transform business requirements to technical solutions.
-- Hands-on experience with modern backend languages and engineering techniques.
-- Hands-on experience with smart contract development.
-- Experience working with global cross-functional collaboration, product development and mentoring engineers.
+- Experience building scalable, reliable backend systems for high-concurrency, large-scale systems.
+- Strong expertise in distributed systems, microservices, event-driven architecture, and cloud-native backend architectures.
+- Experience with designing and implementing REST API, GraphQL, gRPC, WebSocket.
+- Leading system architecture design, technical research, performance optimization, production troubleshooting and root cause analysis.
+- Proficient in Go, Java (Spring Boot), TypeScript, Kubernetes, Kafka, RabbitMQ, PostgreSQL, and Redis.
+- Drive engineering excellence through unit testing, CI/CD, code reviews, technical sharing, and cross-functional collaboration.
+- Actively learning and building AI Agent systems with hands-on experience in LLM integration, multi-agent workflows, task planning, and tool calling.
 
 
 
 
 ### ⚡ Technology Stack
-- Languages: Go, TypeScript (Node.js), Solidity, C++, PHP
-- Backend Development: API Design, REST APIs, WebSocket, gRPC, GraphQL, Microservices
-- Databases & Caching: PostgreSQL, MongoDB, MySQL, Redis 
-- Data Engineering: Real-time Data Pipelines, Stream Processing, Data Normalization
-- Blockchain Integration: Multi-chain Systems, RPC Interaction, Transaction Signing, Smart Contract Integration
-- System Design: Distributed Systems, High-Throughput Systems, Low-Latency Architecture, Event-Driven Design
-- Cloud & Infrastructure: AWS (or similar), Docker, Linux
+- Programing Languages: Go, Java (Spring Boot), TypeScript, Python, C++, PHP
+- AI: AI Agents, LLM Integration, Prompt Engineering, Tool Calling, Context Management
+- Architecture: Distributed Systems, Microservices, Event-Driven Architecture
+- Backend: REST API, gRPC, GraphQL, WebSocket
+- Databases & Caching: PostgreSQL, MySQL, MongoDB, Elastic Search, ClickHouse, Cassandra, Redis, Memcached
 - Messaging & Streaming: Kafka, RabbitMQ, Redis Pub/Sub
-- Blockchain: EVM, Solana, Aptos, Sui
-- Libraries & Frameworks: Web3.js, Ether.js, @solana/web3.js, Hardhat, Foundry
+- Infrastructure: AWS, Kubernetes, Docker, Linux
+- Engineering: System Design, Performance Optimization, Production Troubleshooting, Test Driven Development, Agile
+
 
 
 ### Licenses & certifications
